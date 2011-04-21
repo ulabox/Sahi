@@ -1,0 +1,6 @@
+app-global	langpack-en@firefox-3.6.ubuntu.com	rel%langpack-en@firefox-3.6.ubuntu.com	1286468324	
+app-global	langpack-en-AU@firefox-3.6.ubuntu.com	rel%langpack-en-AU@firefox-3.6.ubuntu.com	1302541822	
+app-global	{972ce4c6-7e08-4474-a285-3208198ce6fd}	rel%{972ce4c6-7e08-4474-a285-3208198ce6fd}	1302542090	
+app-global	langpack-en-GB@firefox-3.6.ubuntu.com	rel%langpack-en-GB@firefox-3.6.ubuntu.com	1286468324	
+app-global	langpack-en-CA@firefox-3.6.ubuntu.com	rel%langpack-en-CA@firefox-3.6.ubuntu.com	1286468324	
+app-system-share	ubufox@ubuntu.com	rel%ubufox@ubuntu.com	1302542262	
